@@ -7,6 +7,6 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 requests==2.16.5
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 Werkzeug==0.12.2
